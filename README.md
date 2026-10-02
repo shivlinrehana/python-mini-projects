@@ -9,8 +9,4 @@ Welcome to my repository for basic Python mini-projects built during my 1st year
 - **How to run:**
   ```bash
   python quiz.py
-### Steps to complete:
-1. Select all text currently in your GitHub editor and delete it.
-2. Copy and paste the block above.
-3. Click the green **Commit changes...** button at the top right.
-4. Click **Commit changes** in the pop-up box to publish it!
+
