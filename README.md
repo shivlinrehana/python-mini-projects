@@ -9,4 +9,7 @@ Welcome to my repository for basic Python mini-projects built during my 1st year
 - **How to run:**
   ```bash
   python quiz.py
-
+ ```
+## 🛠️ Languages & Tools
+- **Language:** Python
+- **IDE:** GitHub Editor 
